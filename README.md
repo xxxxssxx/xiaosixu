@@ -10,7 +10,6 @@ I work on AI for wireless communications, with a focus on Channel Knowledge Maps
 - Cloud–edge collaboration and Edge AI
 - Reinforcement learning for wireless systems and LLM services
 - Large language model quantization and efficient inference
-- Embodied intelligence
 
 ## Publication
 
